@@ -25,6 +25,7 @@
     "nodemon": "^2.0.20"
   },
   "dependencies": {
-    "uniqid": "^5.4.0"
+    "uniqid": "^5.4.0",
+    "yargs": "^17.6.2"
   }
 }
