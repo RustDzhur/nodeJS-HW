@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-hw1",
+  "version": "1.0.0",
+  "description": "HW1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RustDzhur/nodeJS-HW1.git"
+  },
+  "keywords": [
+    "HW1"
+  ],
+  "author": "Rustem Dzhuraiev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RustDzhur/nodeJS-HW1/issues"
+  },
+  "homepage": "https://github.com/RustDzhur/nodeJS-HW1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "uniqid": "^5.4.0"
+  }
+}
